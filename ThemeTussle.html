@@ -28,7 +28,7 @@
 
 <h2>Executive Summary</h2>
 
-<p>Theme Tussle is a 2D fighting game made for true fighting game enthusiasts. All characters in the game are stylized around movie themes. The player controls a character they select and heads out to battle against other characters. The matches will be put under a timer, and the idea is to lower your opponent's health bar to 0 to achieve victory. If your health bar were to reach 0, you would lose.  </p>
+<p>Theme Tussle is a 2D fighting game made for true fighting game enthusiasts. All characters in the game are stylized around movie themes. The player controls a character they select and heads out to battle against other characters. The matches will be put under a timer, and the idea is to lower your opponent's health bar to 0 to achieve victory. If your health bar were to reach 0, you would lose. 4 different characters will be available for the player. This allows the player to maybe find a character that suits them. </p>
 
 <h2>Game Description</h2>
 
@@ -37,13 +37,13 @@
 <ul>
 <li><h3>Overview</h3>
 
-<p>The game itself shall contain an Arcade Mode, which will be three consecutive battles with a general narrative that depends on the character; a Tutorial Mode, which will show the player how the game is played and will explain the rules; A Versus Mode, which will be a single match that can be played against a computer or even a friend, making the game multiplayer, and finally, a settings option to customize input buttons and volume. The main quest follows Nina, a cowgirl trying to find their bounty. </p></li>
+<p>The game itself shall contain an Arcade Mode, which will be three consecutive battles with a general narrative that depends on the character; a Tutorial Mode, which will show the player how the game is played and will explain the rules; A Versus Mode, which will be a single match that can be played against a computer or even a friend, making the game multiplayer, and finally, a settings option to customize input buttons and volume. The main quest follows Nina, a cowgirl trying to find their bounty. The game will play like a fast-paced fighting game where the player can perform combos to try to beat their opponent</p></li>
 <li><h3>The Quest</h3>
 
-<p>The quest is tied into the Arcade Mode. The story is told between all three consecutive battles, separated into different levels. The main story is as follows. Our main character, Nina, is trying to find their bounty and runs into other characters along the way. In the first level, Nina meets up with another bounty hunter, an energetic thief named Suzie and learning that they both have the same target, they duke it out. In the second level, Nina overhears two spiders whispering evil plans and gets caught by a dramatic spider king named Leo. After getting information from the king, Nina tracks down her bounty, Charlie, a rogue jester causing chaos.  If the player succeeds in this Arcade Mode for the first time, they receive a new colour for Nina.</p></li>
+<p>The quest is tied into the Arcade Mode. The story is told between all three consecutive battles, separated into different levels. The main story is as follows. Our main character, Nina, is trying to find their bounty and runs into other characters along the way. In the first level, Nina meets up with another bounty hunter, an energetic thief named Suzie and learning that they both have the same target, they duke it out. In the second level, Nina overhears two spiders whispering evil plans and gets caught by a dramatic spider king named Leo. After getting information from the king, Nina tracks down her bounty, Charlie, a rogue jester causing chaos. If the player succeeds in this Arcade Mode for the first time, they receive a new colour for Nina. That is the main story, every character's Arcade Mode run will be different with slightly different narritaves tied between them.</p></li>
 <li><h3>Main Character</h3>
 
-<p>The main character is a girl from the West called <strong>Nina</strong>. She’s a bounty hunter with a love for money and adventures.  She won’t hesitate to say what’s on her mind. Her playstyle is an in-your-face character with many weapons, such as a rope, a boomerang, and her trusty pistol. Her goal in this game is to catch her bounty, Charlie. </p></li>
+<p>The main character is a girl from the West called <strong>Nina</strong>. She’s a bounty hunter with a love for money and adventures.  She won’t hesitate to say what’s on her mind. Her playstyle is an in-your-face character with many weapons, such as a rope, a boomerang, and her trusty pistol. Her goal in this game is to catch her bounty, Charlie. Her playstyle will be very beginner friendly as act as a good first character to try out.</p></li>
 <li><h3>Sketch of Main Character</h3>
 
 <p><a href="Nina.png" target="_blank"><img src="Nina.png" width="40%" alt="MainCharacterPNG" title="" /></a></p></li>
@@ -51,19 +51,19 @@
 
 <p>Three characters are considered opponents in this game:</p>
 
-<p><strong>Suzie</strong> is a thief who dreams of robbing someone of high authority, claiming their riches as her own.  She is a quick and stealthy character who attacks with a dagger and ninja stars. Her health bar is much smaller than that of other characters, but don’t let that fool you; her speed makes up for it.</p>
+<p><strong>Suzie</strong> is a thief who dreams of robbing someone of high authority, claiming their riches as her own.  She is a quick and stealthy character who attacks with a dagger and ninja stars. Her health bar is much smaller than that of other characters, but don’t let that fool you; her speed makes up for it. Their speed and low health will make them difficult to play but very rewarding</p>
 
-<p><strong>Leo</strong>, King of Spiders, is a huge man who commands spiders to attack his opponents. He wants to get rid of anyone who opposes him. His size makes him easier to hit, but his bigger health bar and ability to throw out loyal spiders makes him a scary opponent. </p>
+<p><strong>Leo</strong>, King of Spiders, is a huge man who commands spiders to attack his opponents. He wants to get rid of anyone who opposes him. His size makes him easier to hit, but his bigger health bar and ability to throw out loyal spiders makes him a scary opponent. Leo will move slower than the other characters but will deal punishing blows if let the chance. Their playstyle will be waiting for mistakes in another player's actions and then taking advantage of the situation</p>
 
-<p><strong>Charlie</strong> is a rogue jester who dislikes responsibilities and wants to spread smiles and laughs worldwide. Unfortunately, her methods are poorly thought out, as they hurt people more than help. Their playstyle is unpredictable as they can throw an assortment of random objects that all fulfill different tasks. </p></li>
+<p><strong>Charlie</strong> is a rogue jester who dislikes responsibilities and wants to spread smiles and laughs worldwide. Unfortunately, her methods are poorly thought out, as they hurt people more than help. Their playstyle is unpredictable as they can throw an assortment of random objects that all fulfill different tasks. They will not be entirely random however as the rest of their moveset relies around moves that may mix up the opponent.</p></li>
 <li><h3>Sketch of Opponents</h3>
 
 <p><a href="Suzie_Charlie_Leo.png" target="_blank"><img src="Suzie_Charlie_Leo.png" width="40%" alt="OpponentsPNG" title="" /></a></p></li>
 <li><h3>Environment</h3>
 
-<p>Every character has an area that is classified as their Scene. Scenes contain characters that match the theme, so vampires and ghouls can be seen on a horror level. The Stages include:</p>
+<p>Every character has an area that is classified as their Scene. Scenes contain characters that match the theme, so vampires and ghouls can be seen on a horror level. All scenery will have a song that matches. The Stages include:</p>
 
-<p>The Wild West is a western land with a saloon and several old-timey buildings in the background. It's home of the protagonist, Nina.</p>
+<p>The Wild West is a western land with old-timey buildings in the background. It's home of the protagonist, Nina.</p>
 
 <p>A rundown village with broken homes and a general empty theme. Flickering street lights can be seen in the background</p>
 
