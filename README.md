@@ -1,6 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Theme-Tussle</title>
+	<style>
+		body {
+			background-color: #0077be;
+			color: #fff;
+			font-family: Arial, sans-serif;
+			margin: 5;
+			padding: 5;
+		}
+		p{
+			font-size: 12pt;
+		}
+		
+	</style>
+</head>
+<body>
+	<div style="text-align: right; float: right;">
+<a href="ICON.png" target="_blank"><img src="ICON.png" width="12.5%" alt="ICONPNG" title="" /></a>
+	</div>
 <h1>Theme Tussle</h1>
-
 <h3><em>By Jake Soucy</em></h3>
+
 
 <hr />
 
@@ -21,44 +43,44 @@
 <p>The quest is tied into the Arcade Mode. The story is told between all three consecutive battles, separated into different levels. The main story is as follows. Our main character, Nina, is trying to find their bounty and runs into other characters along the way. In the first level, Nina meets up with another bounty hunter, an energetic thief named Suzie and learning that they both have the same target, they duke it out. In the second level, Nina overhears two spiders whispering evil plans and gets caught by a dramatic spider king named Leo. After getting information from the king, Nina tracks down her bounty, Charlie, a rogue jester causing chaos.  If the player succeeds in this Arcade Mode for the first time, they receive a new colour for Nina.</p></li>
 <li><h3>Main Character</h3>
 
-<p>The main character is a girl from the West called <strong>Nina</strong>. She’s a bounty hunter with a love for money and adventures.  She’s a sassy woman who won’t hesitate to say what’s on her mind.  Her playstyle is an in-your-face character with many weapons, such as a rope, a boomerang, and her trusty pistol. Her goal in this game is to catch her bounty, Charlie. </p></li>
+<p>The main character is a girl from the West called <strong>Nina</strong>. She’s a bounty hunter with a love for money and adventures.  She won’t hesitate to say what’s on her mind. Her playstyle is an in-your-face character with many weapons, such as a rope, a boomerang, and her trusty pistol. Her goal in this game is to catch her bounty, Charlie. </p></li>
 <li><h3>Sketch of Main Character</h3>
 
-<p><img src="Nina.png" width="20%" alt="MainCharacterPNG" title="" /></p></li>
+<p><a href="Nina.png" target="_blank"><img src="Nina.png" width="40%" alt="MainCharacterPNG" title="" /></a></p></li>
 <li><h3>Opponents</h3>
 
 <p>Three characters are considered opponents in this game:</p>
 
 <p><strong>Suzie</strong> is a thief who dreams of robbing someone of high authority, claiming their riches as her own.  She is a quick and stealthy character who attacks with a dagger and ninja stars. Her health bar is much smaller than that of other characters, but don’t let that fool you; her speed makes up for it.</p>
 
-<p><strong>Leo</strong>, King of Spiders, is a huge man who commands spiders to attack his opponents. He wants to get rid of anyone who opposes him. His size makes him easier to hit, but his bigger health bar makes him a scary opponent. </p>
+<p><strong>Leo</strong>, King of Spiders, is a huge man who commands spiders to attack his opponents. He wants to get rid of anyone who opposes him. His size makes him easier to hit, but his bigger health bar and ability to throw out loyal spiders makes him a scary opponent. </p>
 
 <p><strong>Charlie</strong> is a rogue jester who dislikes responsibilities and wants to spread smiles and laughs worldwide. Unfortunately, her methods are poorly thought out, as they hurt people more than help. Their playstyle is unpredictable as they can throw an assortment of random objects that all fulfill different tasks. </p></li>
 <li><h3>Sketch of Opponents</h3>
 
-<p><img src="Suzie_Charlie_Leo.png" width="20%" alt="OpponentsPNG" title="" /></p></li>
+<p><a href="Suzie_Charlie_Leo.png" target="_blank"><img src="Suzie_Charlie_Leo.png" width="40%" alt="OpponentsPNG" title="" /></a></p></li>
 <li><h3>Environment</h3>
 
 <p>Every character has an area that is classified as their Scene. Scenes contain characters that match the theme, so vampires and ghouls can be seen on a horror level. The Stages include:</p>
 
-<p>The Wild West is a western land with a saloon and several old-timey buildings in the background. </p>
+<p>The Wild West is a western land with a saloon and several old-timey buildings in the background. It's home of the protagonist, Nina.</p>
 
-<p>A rundown village with broken homes and a general empty theme.</p>
+<p>A rundown village with broken homes and a general empty theme. Flickering street lights can be seen in the background</p>
 
-<p>The outside of a dark castle which is connected to a bridge. The land seems very well taken care of. </p>
+<p>The outside of a dark castle which is connected to a bridge. The land seems very well taken care of. A sword of a fallen hero is planted on the path to show the king plays no games</p>
 
-<p>A void-like whitespace that will sometimes switch to a different colour. Floating objects can be seen everywhere.</p></li>
+<p>A void-like whitespace that will sometimes switch to a different colour. Floating objects can be seen everywhere slowly turning around into nothingness.</p></li>
 <li><h3>Sketch of World</h3>
 
-<p><img src="Western.png" width="20%" alt="WesternWorld" title="" />
-<img src="Kingdom.png" width="20%" alt="KingdomWorld" title="" />
-<img src="danger.png" width="20%"alt="DangerousWorld.png" title="" /></p></li>
+<p><a href="Western.png" target="_blank"><img src="Western.png" width="30%" alt="WesternWorld" title="" /></a>
+<a href="Kingdom.png" target="_blank"><img src="Kingdom.png" width="30%" alt="KingdomWorld" title="" /></a>
+<a href="danger.png" target="_blank"><img src="danger.png" width="30%"alt="DangerousWorld.png" title="" /></a></p></li>
 <li><h3>Menus</h3>
 
-<p>The Main Menu will include the following in the exact order. An Arcade Mode, a Tutorial Mode, a Versus Mode, an Options button, and a Quit Game button. The Options tab in the Main Menu will include a Button Settings tab and a Sound Options tab. The Pause button will be the same as the Options tab but with the addition of a Leave Battle button and a Quit Game button. The Arcade Menu and Versus Mode will include a Character Select Menu that shows all four characters and changeable colours. </p></li>
+<p>On the game's startup, you will be sent to the Main Menu. The Main Menu will include the following in the exact order. An Arcade Mode, a Tutorial Mode, a Versus Mode, an Options button, and a Quit Game button. The Options tab in the Main Menu will include a Button Settings tab and a Sound Options tab. The Pause button will be the same as the Options tab but with the addition of a Leave Battle button and a Quit Game button. The Arcade Menu and Versus Mode will include a Character Select Menu that shows all four characters and changeable colours. You select buttons by moving towards it with your ASDW inputs and then pressing P</p></li>
 <li><h3>Controls</h3>
 
-<p>Theme Tussle will contain three separate attack buttons that tie in with motion inputs to create a myriad of possible attacks performed by a character selected by the player. ASWD are the motion inputs for Player 1. A goes to the left, D to the right, S will make the player crouch, and W will make the player jump. Going the opposite direction you are facing will make you block incoming attacks. There are two versions of blocking: low blocking moves block low attacks, and standard blocking blocks high attacks. Pressing the forward button twice will allow you to run. Attack buttons include I, light attacks; O, medium attacks; and P, heavy attacks. </p></li>
+<p>Theme Tussle will contain three separate attack buttons that tie in with motion inputs to create a myriad of possible attacks performed by a character selected by the player. ASWD are the motion inputs for Player 1. A goes to the left, D to the right, S will make the player crouch, and W will make the player jump. Going the opposite direction you are facing will make you block incoming attacks. There are two versions of blocking: low blocking moves block low attacks, and standard blocking blocks high attacks. Pressing the forward button twice will allow you to run. Attack buttons include I, light attacks; O, medium attacks; and P, heavy attacks. These controls will be changeable from the Button Setting tab. Only one player can be on keyboard so the second will need a controller</p></li>
 <li><h3>Sounds</h3>
 
 <p>All characters will have voice lines for some of their moves. Some attacks will dish out powerful sounds. Every character will have their music that corresponds to their genre. Nina will have a more Western-inspired song, while Leo’s will be more horror-inspired. </p></li>
@@ -69,4 +91,5 @@
 <h2>Summary</h2>
 
 <p>Theme Tussle aims to be a fighting game with personality to spare, you can play with your friend or beat the game's story mode. So come on and tussle around!</p>
-
+</body>
+</html>
