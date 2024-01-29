@@ -18,7 +18,7 @@
 </head>
 <body>
 	<div style="text-align: right; float: right;">
-<a href="ICON.png" target="_blank"><img src="ICON.png" width="12.5%" alt="ICONPNG" title="" /></a>
+<a href="Images/ICON.png" target="_blank"><img src="ICON.png" width="12.5%" alt="ICONPNG" title="" /></a>
 	</div>
 <h1>Theme Tussle</h1>
 <h3><em>By Jake Soucy</em></h3>
