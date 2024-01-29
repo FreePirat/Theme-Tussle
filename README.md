@@ -46,7 +46,7 @@
 <p>The main character is a girl from the West called <strong>Nina</strong>. She’s a bounty hunter with a love for money and adventures.  She won’t hesitate to say what’s on her mind. Her playstyle is an in-your-face character with many weapons, such as a rope, a boomerang, and her trusty pistol. Her goal in this game is to catch her bounty, Charlie. Her playstyle will be very beginner friendly as act as a good first character to try out.</p></li>
 <li><h3>Sketch of Main Character</h3>
 
-<p><a href="Nina.png" target="_blank"><img src="Nina.png" width="40%" alt="MainCharacterPNG" title="" /></a></p></li>
+<p><a href="Nina.png" target="_blank"><img src="Images/Nina.png" width="40%" alt="MainCharacterPNG" title="" /></a></p></li>
 <li><h3>Opponents</h3>
 
 <p>Three characters are considered opponents in this game:</p>
@@ -58,7 +58,7 @@
 <p><strong>Charlie</strong> is a rogue jester who dislikes responsibilities and wants to spread smiles and laughs worldwide. Unfortunately, her methods are poorly thought out, as they hurt people more than help. Their playstyle is unpredictable as they can throw an assortment of random objects that all fulfill different tasks. They will not be entirely random however as the rest of their moveset relies around moves that may mix up the opponent.</p></li>
 <li><h3>Sketch of Opponents</h3>
 
-<p><a href="Suzie_Charlie_Leo.png" target="_blank"><img src="Suzie_Charlie_Leo.png" width="40%" alt="OpponentsPNG" title="" /></a></p></li>
+<p><a href="Suzie_Charlie_Leo.png" target="_blank"><img src="Images/Suzie_Charlie_Leo.png" width="40%" alt="OpponentsPNG" title="" /></a></p></li>
 <li><h3>Environment</h3>
 
 <p>Every character has an area that is classified as their Scene. Scenes contain characters that match the theme, so vampires and ghouls can be seen on a horror level. All scenery will have a song that matches. The Stages include:</p>
@@ -72,9 +72,9 @@
 <p>A void-like whitespace that will sometimes switch to a different colour. Floating objects can be seen everywhere slowly turning around into nothingness.</p></li>
 <li><h3>Sketch of World</h3>
 
-<p><a href="Western.png" target="_blank"><img src="Western.png" width="30%" alt="WesternWorld" title="" /></a>
-<a href="Kingdom.png" target="_blank"><img src="Kingdom.png" width="30%" alt="KingdomWorld" title="" /></a>
-<a href="danger.png" target="_blank"><img src="danger.png" width="30%"alt="DangerousWorld.png" title="" /></a></p></li>
+<p><a href="Western.png" target="_blank"><img src="Images/Western.png" width="30%" alt="WesternWorld" title="" /></a>
+<a href="Kingdom.png" target="_blank"><img src="Images/Kingdom.png" width="30%" alt="KingdomWorld" title="" /></a>
+<a href="danger.png" target="_blank"><img src="Images/danger.png" width="30%"alt="DangerousWorld.png" title="" /></a></p></li>
 <li><h3>Menus</h3>
 
 <p>On the game's startup, you will be sent to the Main Menu. The Main Menu will include the following in the exact order. An Arcade Mode, a Tutorial Mode, a Versus Mode, an Options button, and a Quit Game button. The Options tab in the Main Menu will include a Button Settings tab and a Sound Options tab. The Pause button will be the same as the Options tab but with the addition of a Leave Battle button and a Quit Game button. The Arcade Menu and Versus Mode will include a Character Select Menu that shows all four characters and changeable colours. You select buttons by moving towards it with your ASDW inputs and then pressing P</p></li>
