@@ -1,0 +1,6 @@
+# Arcade
+
+World 1920 1080
+
+Bkg Western 0 0
+

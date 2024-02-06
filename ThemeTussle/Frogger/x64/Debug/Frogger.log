@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Frogger.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Frogger.vcxproj -> C:\Users\jaken\Documents\COLLEGE\WINTER2024\DEVProject\Theme-Tussle\ThemeTussle\x64\Debug\Theme_Tussle.exe

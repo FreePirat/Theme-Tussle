@@ -1,0 +1,6 @@
+# Versus
+
+World 1920 1080
+
+Bkg Kingdom 0 0
+
