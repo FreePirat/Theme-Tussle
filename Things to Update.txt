@@ -1,0 +1,1 @@
+- Have gravity work, center origin, motion input + input, read keyboard input.
